@@ -1,5 +1,4 @@
-# TrieDictionary
-Dictionary Using Trie in C++
+# Trie-Dictionary
 
 Purpose
 To implement a dictionary, that contains words and their relevant meanings, and allows the user to search the dictionary and get a suitable output in optimal run-time.
